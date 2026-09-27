@@ -1,0 +1,16 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Database
+wardrobe.db
+
+# User uploads
+uploads/
